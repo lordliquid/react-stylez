@@ -1,0 +1,16 @@
+{
+  "name": "react-stylez",
+  "version": "0.0.1",
+  "description": "React Styl(eZ) makes component styling look easy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React",
+    "style",
+    "component"
+  ],
+  "author": "Robert Cutright <robert.cutright@outlook.com> (http://robertcutright.com/)",
+  "license": "MIT"
+}
